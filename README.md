@@ -87,7 +87,7 @@ Articles should be authenticated by article type, and not source type (though so
 An Aggregator is an application or website that aggregates a set of web articles.  The articles may be selected by a search term or a social graph filter for that, or some other application specific means.  For example, RSS Readers require a user to subscribe to that source.
 
 
-Common Aggregators 
+#### Common Aggregators 
 * Browsers
 * News Dashboards
   * Google News
