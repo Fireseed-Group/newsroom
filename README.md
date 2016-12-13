@@ -50,39 +50,32 @@ The following article types would be a good start to ethical writing guidelines.
 Additionally it might be possible for Original Content to be reviewed and cryptographically signed by peer reviewers, or interviewees.
 
 
-News ( breaking news, confirmed news )
+**News** ( breaking news, confirmed news )
 * Objective, limited or no bias, limited use of emotional words
 * Low number of Unsubstantiated Claim
 
-
-Research ( Scientific, Academic, White Papers )
+**Research** ( Scientific, Academic, White Papers )
 * Peer Reviewed
 * Cryptographically signed by reviewer, and rated
 
-
-Opinion ( OpEd, Editorial, book reviews, product reviews )
+**Opinion** ( OpEd, Editorial, book reviews, product reviews )
 * Bias Allowed
 * Low Number of Unsubstantiated Claims
 
-
-Education ( Encyclopedia, Lesson, History )
+**Education** ( Encyclopedia, Lesson, History )
 * Cryptographically Reviewed and Signed
 * No Unsubstantiated Claims
 
-
-Lifestyle ( dwell, art, design, auto, gardening, cooking )
+**Lifestyle** ( dwell, art, design, auto, gardening, cooking )
 * Minimal Opinion
 
-
-Biographical sketches ( Interviews )
+**Biographical Sketches** ( Interviews )
 * Maybe Cryptographically signed by the interviewee
 
-
-Entertainment ( Humor, Gossip, Tabloid, Satire )
+**Entertainment** ( Humor, Gossip, Tabloid, Satire )
 * Minimal substantiation
 
-
-User Generated Content ( blogs, comments, personal views )
+**User Generated Content** ( blogs, comments, personal views )
 
 
 ### Source Types
@@ -95,56 +88,53 @@ An Aggregator is an application or website that aggregates a set of web articles
 
 
 Common Aggregators 
-- Browsers
-- News Dashboards
--- Google News
--- Yahoo News
--- Bing News
-Social Sites
--- Facebook.com
--- Twitter.com
--- Reddit.com
-Search Engines
--- Google.com
--- Bing.com
--- DuckDuckGo.com
-RSS Readers
--- Google News Reader
--- Mozilla Thunderbird News Reader
-Homepages
--- Yahoo Homepage
-Content Recommendation Engines
--- Boomtrain
--- Gravity
--- Taboola
+* Browsers
+* News Dashboards
+  * Google News
+  * Yahoo News
+  * Bing News
+* Social Sites
+  * Facebook.com
+  * Twitter.com
+  * Reddit.com
+* Search Engines
+  * Google.com
+  * Bing.com
+  * DuckDuckGo.com
+* RSS Readers
+  * Google News Reader
+  * Mozilla Thunderbird News Reader
+* Homepages
+  * Yahoo Homepage
+* Content Recommendation Engines
+  * Boomtrain
+  * Gravity
+  * Taboola
 
 
-Claim
-
-
+### Claim
 A claim is written statement that can be cited back to a source and is identified by metadata.  The Source could carry with it authenticity and challenges to that authenticity. 
 
 
-Unsubstantiated Claim - a claim that does not have a valid source, these can be identified and annotated by a 3rd party, either by machine or human editors.
+#### Unsubstantiated Claim
+A claim that does not have a valid source, these can be identified and annotated by a 3rd party, either by machine or human editors.
 Snopes identifies false claims on web pages, a few days to weeks after the article becomes popular
 Google might be able to use Natural Language Processing to detect axioms or claims.  If they are not substantiated then they could be recorded as ‘unsubstantiated’ for the purposes of ranking the materials authenticity
 
 
-### Substantiated Claim
+#### Substantiated Claim
 Substantiated claims should gain in authenticity weight as they pass certain bars.
-A link to Original Content
-A link to Verified Content
-Cryptographic Peer Review
-Critical Editorial Review by 3rd party websites of Original or Verified Content ( ie. snopes, politifact, etc… )
-Original Content
+* A link to Original Content
+* A link to Verified Content
+* Cryptographic Peer Review
+* Critical Editorial Review by 3rd party websites of Original or Verified Content ( ie. snopes, politifact, etc… )
+* Original Content
 
 
 Original content is unverified and is not peer reviewed.  It can assert itself as any time of content but will represent as an unverified claim.
 
 
 ### Verified Content
-
-
 Verified content is a claim that has been peer reviewed and signed validating it.
 
 
